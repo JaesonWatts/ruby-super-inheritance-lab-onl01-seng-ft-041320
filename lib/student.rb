@@ -1,5 +1,6 @@
 class Student
   
+  attr_accessor :name, :student
   
   def raise_hand
     puts 'Pick me!'
