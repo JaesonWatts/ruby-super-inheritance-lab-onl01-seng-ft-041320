@@ -10,9 +10,8 @@ class ChattyStudent < Student
   
   def raise_hand
     
-    for i < 10
+    10.times do
       puts "Pick me!"
-      i++
     end
   end
 end
