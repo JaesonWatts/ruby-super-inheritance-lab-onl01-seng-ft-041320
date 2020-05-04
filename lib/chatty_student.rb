@@ -1,6 +1,6 @@
 require relative '/lib/student.rb'
 
-class ChattyStudent > 
+class ChattyStudent < Student 
   
   
 end
